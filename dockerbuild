@@ -1,0 +1,1 @@
+docker build https://github.com/uprightvinyl/wordpress-docker.git -t test:1.0.3
